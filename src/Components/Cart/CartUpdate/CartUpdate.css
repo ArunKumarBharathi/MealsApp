@@ -1,0 +1,39 @@
+.count-btn-grp {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  margin-right: 15px;
+}
+.add-btn {
+  background: hsl(230deg, 100%, 70%);
+  border: 1px solid hsl(230deg, 100%, 70%);
+  border-radius: 5px;
+  padding-block: min(5vh, 6px);
+  padding-inline: min(5vw, 25px);
+  font-size: 18px;
+  color: white;
+  cursor: pointer;
+  margin-right: 15px;
+}
+.add-btn:hover {
+  background-color: hsl(340deg, 95%, 60%);
+  border: 1px solid hsl(340deg, 95%, 60%);
+}
+.sizebtn {
+  color: #ffffff;
+  padding: 2px 5px;
+  background: transparent;
+  border: 1px solid white;
+  border-radius: 5px;
+  font-size: 18px;
+  text-align: center;
+  cursor: pointer;
+}
+.count {
+  font-size: 18px;
+  /* margin-inline: 10px; */
+}
+.sizebtn:hover {
+  background-color: hsl(340deg, 95%, 60%);
+}

@@ -1,0 +1,8 @@
+.summary {
+  padding: 15px;
+  color: white;
+  background: hsla(0, 0%, 80%, 0.2);
+  border-radius: 10px;
+  margin-block: min(5vh, 2rem);
+  margin-inline: max(20vw, 5rem);
+}

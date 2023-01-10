@@ -1,0 +1,14 @@
+.meals {
+  padding: 15px;
+  color: white;
+  background: hsl(210deg, 30%, 8%, 0.7);
+  border-radius: 10px;
+  margin-block: min(5vh, 2rem);
+  margin-inline: max(5vw, 2rem);
+}
+
+.error {
+  text-align: center;
+  font-size: 24px;
+  padding: 15px;
+}

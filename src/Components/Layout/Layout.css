@@ -1,0 +1,16 @@
+.login-modal {
+  background: white !important;
+  padding-block: 30px !important;
+}
+.login {
+  color: #000;
+  text-align: center;
+  font-size: 24px;
+  padding: 20px;
+}
+.google {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}

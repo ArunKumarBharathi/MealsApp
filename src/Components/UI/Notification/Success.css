@@ -1,0 +1,21 @@
+.success-modal {
+  background: lightgreen;
+}
+.failer-order {
+  background: rgb(236, 119, 119);
+}
+.success {
+  color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  padding: 10px;
+  font-size: 20px;
+}
+.success-txt {
+  flex: auto;
+}
+.close {
+  cursor: pointer;
+}

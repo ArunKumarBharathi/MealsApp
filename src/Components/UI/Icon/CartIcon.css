@@ -1,0 +1,26 @@
+.btn {
+  color: #ffffff;
+  padding: 10px 15px;
+  background: transparent;
+  border: 1px solid white;
+  border-radius: 10px;
+  font-size: 18px;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 15px;
+  cursor: pointer;
+}
+.btn-badge {
+  border: 1px solid white;
+  border-radius: 5px;
+  padding: 5px 8px;
+}
+@media (max-width: 786px) {
+  .btn {
+    font-size: 16px;
+    padding: 8px 10px;
+    border-radius: 6px;
+  }
+}

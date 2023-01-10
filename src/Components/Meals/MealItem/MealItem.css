@@ -1,0 +1,24 @@
+.meal-grp {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.items {
+  padding: 15px;
+  color: white;
+  font-size: 18px;
+  flex: auto;
+}
+.items-name {
+  font-size: 20px;
+  font-weight: bold;
+  /* color: hsl(230deg, 100%, 69%); */
+  color: hsl(340deg, 95%, 60%);
+  padding-bottom: 8px;
+}
+.items-desc {
+  padding-bottom: 3px;
+}
+.items-price {
+  color: cadetblue;
+}
